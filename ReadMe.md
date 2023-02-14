@@ -18,7 +18,7 @@
 
 4. Open command prompt and type:
    **Step1:** aws configure
-     AWS CLI prompts you for four pieces of information:
+     AWS CLI prompts you for four pieces of information:\n
      **1**.Access key ID
      **2**.Secret access key
      **3**.AWS Region
