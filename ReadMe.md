@@ -19,11 +19,11 @@
 4. Open command prompt and type:
    **Step1:** aws configure
      AWS CLI prompts you for four pieces of information:
-     1.Access key ID
-     2.Secret access key
-     3.AWS Region
-     4.Output format : 1. If you don't specify an output format, json is used as the default.
-                       2. Json,Yaml,Text,Table output format may be any one of these
+     **1**.Access key ID
+     **2**.Secret access key
+     **3**.AWS Region
+     **4**.Output format : **1.** If you don't specify an output format, json is used as the default.
+                           **2.** Json,Yaml,Text,Table output format may be any one of these
                        
 5. The AWS CLI stores sensitive credential information that you specify with aws configure in a local file named credentials, in a folder named .aws in your home directory.
   
