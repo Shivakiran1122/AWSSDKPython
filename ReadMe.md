@@ -1,6 +1,6 @@
-**Over View:**
-**1**.This project is basically using Boto3( AWS SDK for python) in VS Code on windows to connect to AWS S3 buckets.
-**2**.Boto3 is python library to interact with all aws services.In AWS S3 is a simple storage service where you can store structured , Semi structured and Unstructured Data.
+**Over View:**<br/>
+**1**.This project is basically using Boto3( AWS SDK for python) in VS Code on windows to connect to AWS S3 buckets.<br/>
+**2**.Boto3 is python library to interact with all aws services.In AWS S3 is a simple storage service where you can store structured , Semi structured and Unstructured Data.<br/>
 
 **Installtion steps:**
 **1**. Install boto3 using pip command: pip install boto3
