@@ -30,14 +30,14 @@
   
 **6**.The less sensitive configuration options that you specify with aws configure are stored in a local file named config, also stored in the .aws folder in your home directory.
 
-**Operations performed using BOTO3:**
-**1**. List all the buckets
-**2**. List all the objects inside the bucket
-**3**. Upload files to bucket
-**4**. Downloading file
-**5**. Download  file with binary data
-**6**. Presigned url to give limited access  to an unauthorized user
-**7**. Create Bucket
-**8**. Copy objects to other bucket
-**9**. Get Object
+**Operations performed using BOTO3:**<br/>
+**1**. List all the buckets<br/>
+**2**. List all the objects inside the bucket<br/><br/>
+**3**. Upload files to bucket<br/>
+**4**. Downloading file<br/>
+**5**. Download  file with binary data<br/>
+**6**. Presigned url to give limited access  to an unauthorized user<br/>
+**7**. Create Bucket<br/>
+**8**. Copy objects to other bucket<br/>
+**9**. Get Object<br/>
  
