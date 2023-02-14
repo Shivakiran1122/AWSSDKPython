@@ -17,7 +17,7 @@
    **Step3:** Create an access key ID and secret access key<br/>
 
 **4**. Open command prompt and type:
-   **Step1:** aws configure<br/>
+     aws configure<br/>
      AWS CLI prompts you for four pieces of information:<br/>
      **1**.Access key ID<br/>
      **2**.Secret access key<br/>
