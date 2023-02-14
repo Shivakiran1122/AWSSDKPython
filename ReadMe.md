@@ -5,25 +5,25 @@
 **Installtion steps:**
 1. Install boto3 using pip command: pip install boto3
 
-2. Configure the credientals using AWS CLI For Windows
-   **Step1**.Download and run the AWS CLI MSI installer for Windows (64-bit):
-   https://awscli.amazonaws.com/AWSCLIV2.msi
-   **Step2**.To confirm the installation, open the Start menu, search for cmd to open a command prompt window, and at the command prompt use the
-    aws --version command
+2. Configure the credientals using AWS CLI For Windows<br/>
+   **Step1**.Download and run the AWS CLI MSI installer for Windows (64-bit):<br/>
+   https://awscli.amazonaws.com/AWSCLIV2.msi<br/>
+   **Step2**.To confirm the installation, open the Start menu, search for cmd to open a command prompt window, and at the command prompt use the<br/>
+    aws --version command<br/>
     
-3. To access AWS services with the AWS CLI
-   **Step1:** Sign up to AWS
-   **Step2:** Create an IAM user account
-   **Step3:** Create an access key ID and secret access key
+3. To access AWS services with the AWS CLI<br/>
+   **Step1:** Sign up to AWS<br/>
+   **Step2:** Create an IAM user account<br/>
+   **Step3:** Create an access key ID and secret access key<br/>
 
 4. Open command prompt and type:
-   **Step1:** aws configure
+   **Step1:** aws configure<br/>
      AWS CLI prompts you for four pieces of information:<br/>
-     **1**.Access key ID
-     **2**.Secret access key
-     **3**.AWS Region
-     **4**.Output format : **1.** If you don't specify an output format, json is used as the default.
-                           **2.** Json,Yaml,Text,Table output format may be any one of these
+     **1**.Access key ID<br/>
+     **2**.Secret access key<br/>
+     **3**.AWS Region<br/>
+     **4**.Output format : **1.** If you don't specify an output format, json is used as the default.<br/>
+                           **2.** Json,Yaml,Text,Table output format may be any one of these<br/>
                        
 5. The AWS CLI stores sensitive credential information that you specify with aws configure in a local file named credentials, in a folder named .aws in your home directory.
   
