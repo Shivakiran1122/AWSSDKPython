@@ -32,7 +32,7 @@
 
 **Operations performed using BOTO3:**<br/>
 **1**. List all the buckets<br/>
-**2**. List all the objects inside the bucket<br/><br/>
+**2**. List all the objects inside the bucket<br/>
 **3**. Upload files to bucket<br/>
 **4**. Downloading file<br/>
 **5**. Download  file with binary data<br/>
